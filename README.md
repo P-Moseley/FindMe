@@ -7,6 +7,7 @@ Can also find files that contain or match a user given name.
 User can define the search starting point. By default it is C:\\
 
 Built with Java 13 SDK.
+Compiled with Java 8
 
 
 PREREQUISITES
