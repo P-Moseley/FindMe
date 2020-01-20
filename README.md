@@ -1,4 +1,13 @@
 # FindMe
+FindMe is a small Java application I made for a University project. 
+The idea is to streamline the process of transferring personal files from a Windows PC to a Linux PC via USB stick.
+
+
+Can also find files that contain or match a user given name. 
+User can define the search starting point. By default it is C:\\
+
+
+
 PREREQUISITES
 To run FindMe you will require Java installed on your machine. 
 To install Java follow this link: https://java.com/en/
