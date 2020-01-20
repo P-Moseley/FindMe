@@ -6,6 +6,7 @@ The idea is to streamline the process of transferring personal files from a Wind
 Can also find files that contain or match a user given name. 
 User can define the search starting point. By default it is C:\\
 
+Built with Java 13 SDK.
 
 
 PREREQUISITES
